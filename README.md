@@ -13,7 +13,7 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 📱    Mobile Development  
 
 
-HTML5
+!(js-icon)[https://raw.githubusercontent.com/vorillaz/devicons/master/!PNG/javascript_1.png]
 
 CSS3
 
