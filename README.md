@@ -12,6 +12,8 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 💻   Web Development  
 📱    Mobile Development  
 
+
+
 <img align="left" alt="Python" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/2048px-Python-logo-notext.svg.png" />
 <img align="left" alt="Matlab" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/667px-Matlab_Logo.png" />
 
