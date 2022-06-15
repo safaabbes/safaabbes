@@ -7,9 +7,7 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 
 ## Skills and Languages
 📈 Machine Learning/ Deep Learning  
-
 📸: Computer Vision  
-
 🎹: Signal Processing  
 💻: Web Development  
 📱: Mobile Development  
