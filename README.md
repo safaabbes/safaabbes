@@ -24,9 +24,11 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 <img align="left" alt="Flutter" width="25px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 
+
+
 ## Contact Me
 
-![image]({[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/safa-abbes/)})
+![image]({https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white})
 
 
 https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
