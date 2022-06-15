@@ -14,26 +14,7 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 
 
 
-
-[![github]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png]]
-
-
-CSS3
-
-JavaScript
-
-React
-
-MySQL
-
-Git
-
-Python
-
-NextJs
-
-Pytorch
-
+[![openCV](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png)][1]
 
 
 
