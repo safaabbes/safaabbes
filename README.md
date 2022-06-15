@@ -7,10 +7,18 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 
 ## Skills and Languages
 📈   Machine Learning/ Deep Learning  
-📸   Computer Vision  <img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
+📸   Computer Vision  
 🎹   Signal Processing  
 💻   Web Development  
 📱    Mobile Development  
+
+<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
+<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/635px-PyTorch_logo_icon.svg.png" />
+<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1915px-Tensorflow_logo.svg.png" />
+<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
+<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
+<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
+<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />
 
 
 
