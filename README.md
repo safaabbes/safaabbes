@@ -6,11 +6,11 @@ My passion for Signal Processing first derived from my love for music as a keybo
 In my repositories, you'll mostly find Deep Learning and Computer Vision Projects. Some are basic ones I did while still learning the basics and also more advanced ones. I still have a long way to go but I hope that my code will be clear and well-explained.
 
 ## Skills and Languages
-📈: Machine Learning/ Deep Learning  
-📸: Computer Vision  
-🎹: Signal Processing  
-💻: Web Development  
-📱:  Mobile Development  
+📈:   Machine Learning/ Deep Learning  
+📸:   Computer Vision  
+🎹:   Signal Processing  
+💻:   Web Development  
+📱:    Mobile Development  
 
 
 
