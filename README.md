@@ -13,6 +13,25 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 📱    Mobile Development  
 
 
+HTML5
+
+CSS3
+
+JavaScript
+
+React
+
+MySQL
+
+Git
+
+Python
+
+NextJs
+
+Pytorch
+
+
 
 
 
