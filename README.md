@@ -14,7 +14,7 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 
 
 
-[![openCV](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png =256x256)][1]
+[![openCV](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png=256x256)][1]
 
 
 
