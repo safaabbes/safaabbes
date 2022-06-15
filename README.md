@@ -13,10 +13,7 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 📱    Mobile Development  
 
 
-
-[![openCV](https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200pxOpenCV_Logo_with_text_svg_version.svg.png])][1]
-
-
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200pxOpenCV_Logo_with_text_svg_version.svg.png" width="100" height="100">
 
 
 
