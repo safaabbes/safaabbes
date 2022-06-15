@@ -14,7 +14,7 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 
 
 
-[<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200pxOpenCV_Logo_with_text_svg_version.svg.png" />][blog]
+[<img align="left" alt="Java" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/OpenCV_Logo_with_text_svg_version.svg/1200px-OpenCV_Logo_with_text_svg_version.svg.png" />][blog]
 
 
 
