@@ -7,6 +7,10 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 I still have a long way to go but I hope that my code will be clear and well-explained.
 
 
+## Skills and Experience 
+
+## Contact Me
+
 
 
 
