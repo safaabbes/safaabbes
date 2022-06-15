@@ -28,7 +28,7 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 
 
 <img align="left" alt="React" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" />
-<img align="left" alt="Flutter" width="28px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
+<img align="left" alt="Flutter" width="25px" src="https://seeklogo.com/images/F/flutter-logo-5086DD11C5-seeklogo.com.png" />
 
 
 <img align="left" alt="Git" width="30px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
