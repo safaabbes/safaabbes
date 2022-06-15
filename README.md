@@ -3,13 +3,13 @@
 ### Hi there 👋
 I'm Safa, An ICT Engineering Master Student specializing in Signal Processing and Understanding. 
 My passion for Signal Processing first derived from my love for music as a keyboard player and the more I learn the more I'm intrigued by this field of studies. For the past 2 years I also started my adventure with Machine Learning and Computer Vision. I was and still am highly fascinated by these studies and I hope to pursue a career that allows me to achieve projects and tasks that puts in play the knowledge I'm learning from signals to images to designing performant models.
-In my repositories, you'll mostly find Deep Learning and Computer Vision Projects. Some are basic ones I did while still learning the basics and also more advanced ones.
-I still have a long way to go but I hope that my code will be clear and well-explained.
+In my repositories, you'll mostly find Deep Learning and Computer Vision Projects. Some are basic ones I did while still learning the basics and also more advanced ones. I still have a long way to go but I hope that my code will be clear and well-explained.
+
+## Skills and Experience
+
+:camera: Computer Vision
 
 
-## Skills and Experience 
-
-## Contact Me
 
 
 
