@@ -1,6 +1,6 @@
-### ✨ Welcome to My GitHub Realm ✨
+# ✨ Welcome to My GitHub Realm ✨
 
-## Hi there 👋
+### Hi there 👋
 I'm Safa, An ICT Engineering Master Student specializing in Signal Processing and Understanding. 
 My passion for Signal Processing first derived from my love for music as keyboard player and the more I learn the more I'm intrigued by this field of studies. For the past 2 years I also started my adventure with Machine Learning and Computer Vision. I was and still am highly fascinated by these studies and hope to pursue a career that allows me to achieve projects and tasks that puts in play the knowledge I'm learning from signals to images to designing performant models.
 
