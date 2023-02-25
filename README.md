@@ -22,9 +22,10 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 
 
 ### Contact Me
-<a href="https://mail.google.com/mail/u/lee@example.org/#compose" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="safa-abbes" height="30" width="40" /></a>
+E-Mail: abbessafa1998@gmail.com
+
 <a href="https://linkedin.com/in/safa-abbes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="safa-abbes" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/safa_abbes_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="safa_abbes_" height="30" width="40" /></a> -->
+
 </p>
 
 <p align="left">  
