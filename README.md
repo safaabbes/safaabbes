@@ -15,10 +15,6 @@ In my repositories, you'll mostly find Deep Learning and Computer Vision Project
 📸   Computer Vision  
 🎹   Signal Processing  
 
-<h3 align="left">Additional Basic Skills:</h3>
-💻   Web Development   
-
-📱    Mobile Development  
 
 
 ### Contact Me
